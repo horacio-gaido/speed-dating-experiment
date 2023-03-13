@@ -25,6 +25,8 @@ Within the repository, you will find sections containing different tasks related
 
 * Machine Learning Applications
 
+* [rReport](https://github.com/horacio-gaido/speed-dating-experiment/blob/main/Report/TF_citas_rapidas.pdf) 
+
 Although our research has concluded, this repository is still a work in progress and we hope to be able to update it shortly. For more information, feel free to contact the collaborators.
 
 
