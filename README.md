@@ -2,7 +2,7 @@
 ## This repository contains notebooks related to processing, analysis, and machine learning applied to the speed-dating dataset
 
 
-This investigation was conducted for the final research project of the *Data Intelligence in Management* Diploma Program, taught at [*Facultad de Ciencias Económicas Universidad Nacional de Cuyo*](https://fce.uncuyo.edu.ar/). All of the data used for this project was gathered from a speed-dating experiment lead by researchers at Columbia University. The dataset along with its description can be found on the following Link: [Speed Dating Dataset](https://www.openml.org/search?type=data&sort=runs&status=active&id=40536).
+This investigation was conducted for the final research project of the *Data Intelligence in Management* Diploma Program, taught at [*Facultad de Ciencias Económicas, Universidad Nacional de Cuyo*](https://fce.uncuyo.edu.ar/). All of the data used for this project was gathered from a speed-dating experiment lead by researchers at Columbia University. The dataset along with its description can be found on the following Link: [Speed Dating Dataset](https://www.openml.org/search?type=data&sort=runs&status=active&id=40536).
 
 
 Originally, 2 papers associated with the collected data were published:
